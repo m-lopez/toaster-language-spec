@@ -1,2 +1,3 @@
-# toaster-language-spec
-A language specification for a the Toaster langauge.
+# Welcome to the toaster language specification
+
+This repository contains the language specification for the Toaster language.
